@@ -1,3 +1,5 @@
-first line
-sec line
+new line 
+new 2nd line
+first line some text
+sec line added
 third line
