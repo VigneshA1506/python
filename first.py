@@ -172,3 +172,4 @@ sc=max(scores)
 scores.sort()
 greatest = scores[-1]
 print(greatest)
+#Last line added
